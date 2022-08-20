@@ -7,7 +7,7 @@ This is my first game/my ironhack project for module 1 of the course Web Develop
 
 
 
-Click here to play! <link href="https://kuhora.github.io/SnakeGame/" rel="Game"/>
+Click here to play! https://kuhora.github.io/SnakeGame/
 <hr>
 
 # Introduction
