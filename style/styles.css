@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #4C9900;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;   
+  font-family: sans-serif;
+  
+}
+
+  canvas{
+    box-shadow: black 20px 10px 50px ;
+  }
+
+  #logo{
+    width: 50vw;
+  }
+
+  .explication{
+    margin-top: 40px;
+  }
+
+  .explication p{
+    font-size: 22px;
+  }
+
+  #buttonAgain {
+    margin-top: 30px;
+    padding: 5px 10px;  
+    border: none;
+    outline: none; /* Não consegui tirar a borda branca, então bodei um background preto pra ficar menos pior*/
+  }
+
+  .buttonPlay{
+    border: none;
+    outline: none;
+    background-color: #639111;
+  }
