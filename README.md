@@ -1,17 +1,13 @@
-
 # Mr Snake
 
 This is my first game/my ironhack project for module 1 of the course Web Developer Full Stack.
 
-<hr>
-
-# Mr Snake
-
-This is my first game/my ironhack project for module 1 of the course Web Developer Full Stack.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105829768/185740542-d4136d09-b0b2-4819-9f8b-ccb8c9ee9b64.png)
 
-Click here to play!
+
+
+Click here to play! <link href="https://kuhora.github.io/SnakeGame/" rel="Game"/>
 <hr>
 
 # Introduction
