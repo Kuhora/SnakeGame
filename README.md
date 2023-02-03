@@ -1,6 +1,6 @@
 # Mr Snake
 
-This is my first project
+This is my first project with Canvas
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105829768/185740542-d4136d09-b0b2-4819-9f8b-ccb8c9ee9b64.png)
